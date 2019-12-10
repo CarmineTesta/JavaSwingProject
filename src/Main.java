@@ -6,7 +6,6 @@ public class Main {
 		FinestraPrimariaController controller = new FinestraPrimariaController();
 		controller.initFinistra();
 		
-
 	}
 
 }

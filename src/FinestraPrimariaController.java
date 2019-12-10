@@ -10,6 +10,7 @@ public class FinestraPrimariaController {
 		studente.aggiungiAllaLista();
 		studente.stampamiGliStudenti();
 	}
+	//CIAO FACCIO UN'ALTRA MODIFICA AL FILE
 	
 	
 }
