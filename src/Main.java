@@ -5,6 +5,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		FinestraPrimariaController controller = new FinestraPrimariaController();
 		controller.initFinistra();
+		//ciao sono fortissimo
 		
 	}
 
