@@ -5,8 +5,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		FinestraPrimariaController controller = new FinestraPrimariaController();
 		controller.initFinistra();
-		//PROVO A CAMBIARE QUALCOSA DAL ECLIPSE
-
+		
 	}
 
 }
