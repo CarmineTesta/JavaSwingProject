@@ -6,6 +6,6 @@ public class Main {
 		controller.initFinistra();
 		
 	}
-	// number 1
+	// number 2
 }
 
