@@ -6,8 +6,6 @@ public class Main {
 		controller.initFinistra();
 		
 	}
-	// prova n2
-	//prova n3
-	//prova n4
+	// number 1
 }
 
